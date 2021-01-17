@@ -9,17 +9,11 @@
 
 `<p class="btn-dark"> This How You Use The Style Class </p>`
 
+
+
+
+
 > to use transform py file
-
-
-| name          | email                          |
-| ------------  | -------------------------------| 
-| Hussein Naim :| husseinnaim.github@gmail.com   |
-| Arwaa :       | rewaaalsawaferys@gmail.com               |
-
-
-
-
 ```python
 
 def move_to_repo(path):
@@ -30,8 +24,14 @@ def move_from_repo(path):
 
 ```
 
-> DEVELOPED BY : HUSSEIN NAIM
+> DEVELOPED AND DESIGNED  BY :
 
-[author link](https://instagram.com/cld.u)
+| name          | email                          |
+| ------------  | -------------------------------| 
+| Hussein Naim :| husseinnaim.github@gmail.com   |
+| Arwaa :       | rewaaalsawaferys@gmail.com     |
+
+> AUTHOR 
+[  link](https://instagram.com/cld.u)
 
 ![the author](./black.jpg)
