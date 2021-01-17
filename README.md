@@ -11,10 +11,14 @@
 
 > to use transform py file
 
-```
-type 1 for transform from project to repo
+```python
 
-type 2 for transform from repo to project 
+def move_to_repo(path):
+    pass
+
+def move_from_repo(path):
+    pass
+
 ```
 
 > DEVELOPED BY : HUSSEIN NAIM
