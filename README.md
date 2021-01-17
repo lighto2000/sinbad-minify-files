@@ -12,10 +12,10 @@
 > to use transform py file
 
 
-| name        | email                          |
-| ------------| -------------------------------| 
-| Hussein Naim| husseinnaim.github@gmail.com   |
-| Arwaa       |  arwaa@gmail.com               |
+| name          | email                          |
+| ------------  | -------------------------------| 
+| Hussein Naim :| husseinnaim.github@gmail.com   |
+| Arwaa :       | rewaaalsawaferys@gmail.com               |
 
 
 
