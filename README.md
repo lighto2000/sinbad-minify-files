@@ -9,7 +9,16 @@
 
 `<p class="btn-dark"> This How You Use The Style Class </p>`
 
+> to use transform py file
+
+```
+type 1 for transform from project to repo
+
+type 2 for transform from repo to project 
+```
+
 > DEVELOPED BY : HUSSEIN NAIM
+
 [author link](https://instagram.com/cld.u)
 
 ![the author](./black.jpg)
