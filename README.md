@@ -31,10 +31,10 @@
 > to use transform py file
 ```python
 
-def move_to_repo(path):
+def move_to_repo(files_list):
     pass
 
-def move_from_repo(path):
+def move_from_repo(files_list):
     pass
 
 ```
