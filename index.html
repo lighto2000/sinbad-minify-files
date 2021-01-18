@@ -9,25 +9,40 @@
 </head>
 <body>
     <style>
+        :root{
+            --dark:#2C2C2C;
+            --tomato-bg:#FF7070;
+            --sky:#38BEFF;
+            --light:#fff;
+        }
         @font-face {
             font-family: main-font;
             src: url(main-font);
         }
         body{
-            background-color: #fff;
+            background-color: coral;
         }
         .btn-dark{
             padding: 10px 2rem;
             font-family: 'Yusei Magic', sans-serif;
-            margin: 200px 300px;
             border: none;
             background: rgb(27, 22, 22);
             border-radius: 20px;
             color: aquamarine;
         }
+        .btn-light{
+            border: none;
+            padding: 10px 2rem;
+            border-radius: 20px;
+            font-family: 'Yusei Magic', sans-serif;
+            background: #fff;
+        }
+
     </style>
 
     <button class="btn-dark"> dark </button>
+    <button class="btn-light"> light  </button>
+
     
 </body>
 </html>

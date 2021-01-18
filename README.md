@@ -9,7 +9,21 @@
 
 `<p class="btn-dark"> This How You Use The Style Class </p>`
 
-![the author](./btn.png)
+```css
+.btn-sky{
+    padding: 10px 2rem;
+    font-family: 'Yusei Magic', sans-serif;
+    border: none;
+    background: 38BEFF;
+    border-radius: 20px;
+}
+```
+
+![the author](./sky.png)
+![the author](./light.png)
+
+![the author](./tomato.png)
+![the author](./dark.png)
 
 
 
