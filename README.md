@@ -37,6 +37,10 @@ def move_to_repo(files_list):
 def move_from_repo(files_list):
     pass
 
+class newApp():
+    def __init__(self):
+        self.path = []
+        self.repo_url = 'https://github.com/lighto2000/sinbad-minify-files'
 ```
 
 > DEVELOPED AND DESIGNED  BY :
