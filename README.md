@@ -51,4 +51,4 @@ class newApp():
 | Arwaa :       | rewaaalsawaferys@gmail.com     |
 
 > AUTHOR 
-[  link](https://instagram.com/iabedev)
+[  link](https://instagram.com/iambedev)
